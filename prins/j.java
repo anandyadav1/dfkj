@@ -6,4 +6,11 @@ for(int i=0; i<10; i++){
     annad;
 }
 
-lkjhcgj
+for(int i=0; i<10; i++){
+    annad2;
+}
+
+for(int i=0; i<10; i++){
+    annad3;
+}
+
